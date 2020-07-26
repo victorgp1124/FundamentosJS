@@ -1,4 +1,4 @@
-//-------   VARIALBLES EN JAVASCRIPT ----------
+//-------   VARIALBLES EN JAVASCRIPTs ----------
 
 // Podemos agregar variables en una misma linea
 // agregando una coma ,
